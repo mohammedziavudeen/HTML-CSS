@@ -1,0 +1,24 @@
+.chessboard{
+    width: 400px;
+    height: 400px;
+    border: 1px solid burlywood;
+}
+
+.square{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+.black{
+    background:saddlebrown;
+}
+.white{
+    background: black;
+}
+.white:hover{
+    background: wheat;
+}
+.black:hover{
+    background:whitesmoke;
+}
